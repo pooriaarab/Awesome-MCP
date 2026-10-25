@@ -617,3 +617,173 @@ entries:
     transport: [remote]
     official: true
     tags: [knowledge, automation, self-hosted, typescript]
+
+  - id: agentsandboxes
+    name: AgentSandboxes
+    kind: server
+    category: developer-tools
+    url: https://agentsandboxes.fyi/developers
+    description: Free hosted MCP endpoint for searching cloud sandbox providers for AI agents; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: agentwalletindex
+    name: Agent Wallet Index
+    kind: server
+    category: data
+    url: https://agentwalletindex.fyi/developers
+    description: Free hosted MCP endpoint for searching agent wallets and payment rails; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: creditunions
+    name: CreditUnions
+    kind: server
+    category: data
+    url: https://creditunions.fyi/developers
+    description: Free hosted MCP endpoint for searching federally insured US credit unions from NCUA data; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: datingcoaches
+    name: Dating Coaches Directory
+    kind: server
+    category: data
+    url: https://datingcoaches.fyi/developers
+    description: Free hosted MCP endpoint for searching dating coaches and matchmakers by city; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: doulas
+    name: Doulas
+    kind: server
+    category: health
+    url: https://doulas.fyi/developers
+    description: Free hosted MCP endpoint for searching birth, postpartum and end-of-life doulas by city; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: drivingschool
+    name: Driving Schools
+    kind: server
+    category: data
+    url: https://drivingschools.fyi/developers
+    description: Free hosted MCP endpoint for searching driving schools by city and vehicle type; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: eatingdisorder
+    name: Eating Disorder Directory
+    kind: server
+    category: health
+    url: https://eatingdisorder.fyi/developers
+    description: Free hosted MCP endpoint for searching US eating disorder treatment programs from SAMHSA data; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: fertilityclinics
+    name: FertilityClinics
+    kind: server
+    category: health
+    url: https://fertilityclinics.fyi/developers
+    description: Free hosted MCP endpoint for searching US fertility and IVF clinics from CDC data; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: foreclosurelistings
+    name: ForeclosureListings
+    kind: server
+    category: data
+    url: https://foreclosurelistings.fyi/developers
+    description: Free hosted MCP endpoint for searching foreclosure notices, sale information and housing assistance; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: french4pr
+    name: French4PR
+    kind: server
+    category: data
+    url: https://french4pr.com/developers
+    description: Free hosted MCP endpoint for searching French test centres, schools and tutors for Canadian immigration; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: immigrationhelp
+    name: ImmigrationHelp
+    kind: server
+    category: data
+    url: https://immigrationhelp.fyi/developers
+    description: Free hosted MCP endpoint for searching DOJ-authorized US immigration legal providers; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: peptideclinic
+    name: PeptideClinic
+    kind: server
+    category: health
+    url: https://peptideclinic.fyi/developers
+    description: Free hosted MCP endpoint for searching US peptide providers by city; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: petcremation
+    name: PetCremation
+    kind: server
+    category: data
+    url: https://petcremation.fyi/developers
+    description: Free hosted MCP endpoint for searching pet crematories and aftercare providers by city; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: psilocybincenters
+    name: Psilocybin Centers
+    kind: server
+    category: health
+    url: https://psilocybincenters.fyi/developers
+    description: Free hosted MCP endpoint for searching state-licensed psilocybin service and healing centers; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: robotaxis
+    name: Robotaxis
+    kind: server
+    category: data
+    url: https://robotaxis.fyi/developers
+    description: Free hosted MCP endpoint for searching robotaxi services by city and operator; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: soberbars
+    name: Sober Bars
+    kind: server
+    category: data
+    url: https://soberbars.fyi/developers
+    description: Free hosted MCP endpoint for searching alcohol-free bars and bottle shops by city; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
+
+  - id: auctionfinder
+    name: AuctionFinder
+    kind: server
+    category: data
+    url: https://auctionfinder.fyi/developers
+    description: Free hosted MCP endpoint for searching auction houses, online auction platforms and government surplus programs; no API key required.
+    transport: [remote]
+    official: false
+    tags: [directory, search, data]
